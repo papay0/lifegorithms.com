@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Apr 2020 07:03:31 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about?]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.io/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.io/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Arthur Papailhau's Lifegorithms Blog RSS Feed]]></title><description><![CDATA[Personal blog by Arthur Papailhau.]]></description><link>https://lifegorithms.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 18 Apr 2020 08:00:38 GMT</lastBuildDate><item><title><![CDATA[Lifegorithms, what is it about?]]></title><description><![CDATA[Why would I have a website, in 2020?]]></description><link>https://lifegorithms.com/lifegorithms-goal/</link><guid isPermaLink="false">https://lifegorithms.com/lifegorithms-goal/</guid><pubDate>Tue, 14 Apr 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I had a few (very random &amp;#x26; useless) websites/blogs in my life.&lt;/p&gt;
 &lt;p&gt;It all started with &lt;a href=&quot;https://www.skyrock.com/blog/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Skyblog&lt;/a&gt; when I was like 12, but unfortunately I might have deleted it a few years ago when I realized what kind of content I was posting. 😂 Now I do regret having deleted it…&lt;br&gt;
 But I can tell you it was random stuff, from ideas to describing an afternoon spent with friends.&lt;/p&gt;
 &lt;p&gt;After that, I learned HTML/CSS, built a few websites kinda useless.&lt;br&gt;
@@ -9,7 +9,7 @@ I use this Google Drive folder to write down future ideas, but also to keep memo
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -28,13 +28,13 @@ I use this Google Drive folder to write down future ideas, but also to keep memo
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;My Google Drive project list&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png&quot;
-        srcset=&quot;/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/00d96/drive-projects.png 148w,
-/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/0b23c/drive-projects.png 295w,
-/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png 590w,
-/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/2a3d6/drive-projects.png 885w,
-/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/ae92f/drive-projects.png 1180w,
-/lifegorithms.io/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png 2044w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png&quot;
+        srcset=&quot;/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/00d96/drive-projects.png 148w,
+/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/0b23c/drive-projects.png 295w,
+/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/799d3/drive-projects.png 590w,
+/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/2a3d6/drive-projects.png 885w,
+/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/ae92f/drive-projects.png 1180w,
+/lifegorithms.com/static/e8f630f99ebc6cbf0da74dc31c73ef39/a6c40/drive-projects.png 2044w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -57,13 +57,13 @@ In this section, I want to describe where I worked, what I learned, what I liked
 &lt;p&gt;Maybe you realized that I am not at all talking about the name of this website, &lt;strong&gt;Lifegorithms&lt;/strong&gt;, I’m sure it will come later, maybe in the &lt;strong&gt;Article&lt;/strong&gt; section! 🙃&lt;/p&gt;
 &lt;p&gt;PS: I will date every articles, projects and jobs concerning the past with the actual date of real life event. For instance, if I describe my job from 2017, the date of the post will be from 2017.&lt;br&gt;
 It would be confusing otherwise.&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.io. You can read it online by &lt;a href=&quot;https://lifegorithms.io/lifegorithms-goal/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[My Facebook F8/Hackathons 2019 Experience 😍]]></title><description><![CDATA[Why would Facebook invite me? 🙄]]></description><link>https://lifegorithms.io/f8-2019/</link><guid isPermaLink="false">https://lifegorithms.io/f8-2019/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;f8--hackathon-2019&quot;&gt;&lt;a href=&quot;#f8--hackathon-2019&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;F8 / Hackathon 2019&lt;/h1&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/lifegorithms-goal/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[My Facebook F8/Hackathons 2019 Experience 😍]]></title><description><![CDATA[Why would Facebook invite me? 🙄]]></description><link>https://lifegorithms.com/f8-2019/</link><guid isPermaLink="false">https://lifegorithms.com/f8-2019/</guid><pubDate>Wed, 01 May 2019 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;f8--hackathon-2019&quot;&gt;&lt;a href=&quot;#f8--hackathon-2019&quot; aria-hidden class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;F8 / Hackathon 2019&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;April 28th - May 1st 2019&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -82,13 +82,13 @@ It would be confusing otherwise.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png&quot;
-        srcset=&quot;/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/00d96/f8-profile.png 148w,
-/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/0b23c/f8-profile.png 295w,
-/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png 590w,
-/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/2a3d6/f8-profile.png 885w,
-/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/ae92f/f8-profile.png 1180w,
-/lifegorithms.io/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png 1308w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png&quot;
+        srcset=&quot;/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/00d96/f8-profile.png 148w,
+/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/0b23c/f8-profile.png 295w,
+/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/799d3/f8-profile.png 590w,
+/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/2a3d6/f8-profile.png 885w,
+/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/ae92f/f8-profile.png 1180w,
+/lifegorithms.com/static/b9e3800d3ef2b4e047e445ad20125fef/b6af8/f8-profile.png 1308w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -125,7 +125,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -144,13 +144,13 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png&quot;
-        srcset=&quot;/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/00d96/f8-team.png 148w,
-/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/0b23c/f8-team.png 295w,
-/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png 590w,
-/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/2a3d6/f8-team.png 885w,
-/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/ae92f/f8-team.png 1180w,
-/lifegorithms.io/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png 1874w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png&quot;
+        srcset=&quot;/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/00d96/f8-team.png 148w,
+/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/0b23c/f8-team.png 295w,
+/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/799d3/f8-team.png 590w,
+/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/2a3d6/f8-team.png 885w,
+/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/ae92f/f8-team.png 1180w,
+/lifegorithms.com/static/d2030763cbc8b188b3a86c9be9797ca5/27cda/f8-team.png 1874w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -168,7 +168,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -187,13 +187,13 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png&quot;
-        srcset=&quot;/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/00d96/f8-hackathon-day.png 148w,
-/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/0b23c/f8-hackathon-day.png 295w,
-/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png 590w,
-/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/2a3d6/f8-hackathon-day.png 885w,
-/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/ae92f/f8-hackathon-day.png 1180w,
-/lifegorithms.io/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png 1872w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png&quot;
+        srcset=&quot;/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/00d96/f8-hackathon-day.png 148w,
+/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/0b23c/f8-hackathon-day.png 295w,
+/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/799d3/f8-hackathon-day.png 590w,
+/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/2a3d6/f8-hackathon-day.png 885w,
+/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/ae92f/f8-hackathon-day.png 1180w,
+/lifegorithms.com/static/6ce9f9e02c7e94041fe6288dd5f94e5f/3405a/f8-hackathon-day.png 1872w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -204,7 +204,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -223,13 +223,13 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png&quot;
-        srcset=&quot;/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/00d96/f8-hackathon-night.png 148w,
-/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/0b23c/f8-hackathon-night.png 295w,
-/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png 590w,
-/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/2a3d6/f8-hackathon-night.png 885w,
-/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/ae92f/f8-hackathon-night.png 1180w,
-/lifegorithms.io/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png 1874w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png&quot;
+        srcset=&quot;/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/00d96/f8-hackathon-night.png 148w,
+/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/0b23c/f8-hackathon-night.png 295w,
+/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/799d3/f8-hackathon-night.png 590w,
+/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/2a3d6/f8-hackathon-night.png 885w,
+/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/ae92f/f8-hackathon-night.png 1180w,
+/lifegorithms.com/static/5e1a811b7a532820dabbc2357cd60aa8/27cda/f8-hackathon-night.png 1874w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -241,7 +241,7 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -260,13 +260,13 @@ Someone had a profile picture with a cat, another one sent a GIF with a cat, I l
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;F8&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png&quot;
-        srcset=&quot;/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/00d96/f8-keynote.png 148w,
-/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/0b23c/f8-keynote.png 295w,
-/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png 590w,
-/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/2a3d6/f8-keynote.png 885w,
-/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/ae92f/f8-keynote.png 1180w,
-/lifegorithms.io/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png 1872w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png&quot;
+        srcset=&quot;/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/00d96/f8-keynote.png 148w,
+/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/0b23c/f8-keynote.png 295w,
+/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/799d3/f8-keynote.png 590w,
+/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/2a3d6/f8-keynote.png 885w,
+/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/ae92f/f8-keynote.png 1180w,
+/lifegorithms.com/static/a09057eac98b1c59ce7c71c20e183cb6/3405a/f8-keynote.png 1872w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -309,7 +309,7 @@ We also saw him for the opening keynote.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -328,13 +328,13 @@ We also saw him for the opening keynote.&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Mark Zuckerberg&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png&quot;
-        srcset=&quot;/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/00d96/f8-mark.png 148w,
-/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/0b23c/f8-mark.png 295w,
-/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png 590w,
-/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/2a3d6/f8-mark.png 885w,
-/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/ae92f/f8-mark.png 1180w,
-/lifegorithms.io/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png 1852w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png&quot;
+        srcset=&quot;/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/00d96/f8-mark.png 148w,
+/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/0b23c/f8-mark.png 295w,
+/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/799d3/f8-mark.png 590w,
+/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/2a3d6/f8-mark.png 885w,
+/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/ae92f/f8-mark.png 1180w,
+/lifegorithms.com/static/23579370e1586ddbadf896d0bc74a6bd/3ae72/f8-mark.png 1852w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -361,7 +361,7 @@ The have a memory budget per team, like they have only 5MB per team and they hav
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -380,12 +380,12 @@ The have a memory budget per team, like they have only 5MB per team and they hav
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Uber&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png&quot;
-        srcset=&quot;/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/00d96/f8-Uber.png 148w,
-/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/0b23c/f8-Uber.png 295w,
-/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png 590w,
-/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/2a3d6/f8-Uber.png 885w,
-/lifegorithms.io/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png 1168w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png&quot;
+        srcset=&quot;/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/00d96/f8-Uber.png 148w,
+/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/0b23c/f8-Uber.png 295w,
+/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/799d3/f8-Uber.png 590w,
+/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/2a3d6/f8-Uber.png 885w,
+/lifegorithms.com/static/57437bcdca78ece12d2eb42753ac8716/a6965/f8-Uber.png 1168w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -424,7 +424,7 @@ I think I took every opportunity to talk and learn from them and how they work.&
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -443,13 +443,13 @@ I think I took every opportunity to talk and learn from them and how they work.&
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;1 Hacker Way&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png&quot;
-        srcset=&quot;/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/00d96/f8-1-hacker-way.png 148w,
-/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/0b23c/f8-1-hacker-way.png 295w,
-/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png 590w,
-/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/2a3d6/f8-1-hacker-way.png 885w,
-/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/ae92f/f8-1-hacker-way.png 1180w,
-/lifegorithms.io/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png 1498w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png&quot;
+        srcset=&quot;/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/00d96/f8-1-hacker-way.png 148w,
+/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/0b23c/f8-1-hacker-way.png 295w,
+/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/799d3/f8-1-hacker-way.png 590w,
+/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/2a3d6/f8-1-hacker-way.png 885w,
+/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/ae92f/f8-1-hacker-way.png 1180w,
+/lifegorithms.com/static/7e0ae6e50f4d6d4136a9abcaede0b456/154b4/f8-1-hacker-way.png 1498w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -457,8 +457,8 @@ I think I took every opportunity to talk and learn from them and how they work.&
   
   &lt;/a&gt;
     &lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.io. You can read it online by &lt;a href=&quot;https://lifegorithms.io/f8-2019/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
-              </content:encoded></item><item><title><![CDATA[Uber UX Research Trip 🇲🇽]]></title><description><![CDATA[A week researching in Mexico, from the point of view of an Engineer!]]></description><link>https://lifegorithms.io/ux-research-mexico-uber/</link><guid isPermaLink="false">https://lifegorithms.io/ux-research-mexico-uber/</guid><pubDate>Sun, 18 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A few words before the article:&lt;/p&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/f8-2019/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+              </content:encoded></item><item><title><![CDATA[Uber UX Research Trip 🇲🇽]]></title><description><![CDATA[A week researching in Mexico, from the point of view of an Engineer!]]></description><link>https://lifegorithms.com/ux-research-mexico-uber/</link><guid isPermaLink="false">https://lifegorithms.com/ux-research-mexico-uber/</guid><pubDate>Sun, 18 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;A few words before the article:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This was originally written to share internally at Uber. I removed all internal knowledge.&lt;/li&gt;
 &lt;li&gt;“Retriever” is a name of an Uber project, about Uber Partners &amp;#x26; Cash. (Payment method 💵)&lt;/li&gt;
@@ -505,7 +505,7 @@ Conclusion on safety: positively surprised. 👍&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -524,13 +524,13 @@ Conclusion on safety: positively surprised. 👍&lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Yucatan&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png&quot;
-        srcset=&quot;/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/00d96/uber-research-trip-mexico-yucatan.png 148w,
-/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/0b23c/uber-research-trip-mexico-yucatan.png 295w,
-/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png 590w,
-/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/2a3d6/uber-research-trip-mexico-yucatan.png 885w,
-/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/ae92f/uber-research-trip-mexico-yucatan.png 1180w,
-/lifegorithms.io/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png 1420w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png&quot;
+        srcset=&quot;/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/00d96/uber-research-trip-mexico-yucatan.png 148w,
+/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/0b23c/uber-research-trip-mexico-yucatan.png 295w,
+/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/799d3/uber-research-trip-mexico-yucatan.png 590w,
+/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/2a3d6/uber-research-trip-mexico-yucatan.png 885w,
+/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ae92f/uber-research-trip-mexico-yucatan.png 1180w,
+/lifegorithms.com/static/4af84fea68d9bff1e9984f0b2ab9af3e/ecfa3/uber-research-trip-mexico-yucatan.png 1420w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -547,7 +547,7 @@ Some were saying 50/50, other 70/30 and even 80/20, all for more cash than card 
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -566,11 +566,11 @@ Some were saying 50/50, other 70/30 and even 80/20, all for more cash than card 
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Cash&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png&quot;
-        srcset=&quot;/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/00d96/uber-research-trip-mexico-cash.png 148w,
-/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/0b23c/uber-research-trip-mexico-cash.png 295w,
-/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png 590w,
-/lifegorithms.io/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png 690w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png&quot;
+        srcset=&quot;/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/00d96/uber-research-trip-mexico-cash.png 148w,
+/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/0b23c/uber-research-trip-mexico-cash.png 295w,
+/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/799d3/uber-research-trip-mexico-cash.png 590w,
+/lifegorithms.com/static/d9fb2ca1f0dc69264c97282284df2abc/1dda8/uber-research-trip-mexico-cash.png 690w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -626,7 +626,7 @@ Ops in the greenlight have to perfectly know everything in order to handle all k
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -645,13 +645,13 @@ Ops in the greenlight have to perfectly know everything in order to handle all k
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Greenlight&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png&quot;
-        srcset=&quot;/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/00d96/uber-research-trip-mexico-greenlight.png 148w,
-/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/0b23c/uber-research-trip-mexico-greenlight.png 295w,
-/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png 590w,
-/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/2a3d6/uber-research-trip-mexico-greenlight.png 885w,
-/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/ae92f/uber-research-trip-mexico-greenlight.png 1180w,
-/lifegorithms.io/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png 1736w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png&quot;
+        srcset=&quot;/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/00d96/uber-research-trip-mexico-greenlight.png 148w,
+/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/0b23c/uber-research-trip-mexico-greenlight.png 295w,
+/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/799d3/uber-research-trip-mexico-greenlight.png 590w,
+/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/2a3d6/uber-research-trip-mexico-greenlight.png 885w,
+/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/ae92f/uber-research-trip-mexico-greenlight.png 1180w,
+/lifegorithms.com/static/4ccf5716ad1a3ff523e2d25073a08e94/dbe62/uber-research-trip-mexico-greenlight.png 1736w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -682,7 +682,7 @@ I tested my code with Unit tests, Snapshot tests, End-to-end tests, and now also
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -701,13 +701,13 @@ I tested my code with Unit tests, Snapshot tests, End-to-end tests, and now also
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;OXXO&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png&quot;
-        srcset=&quot;/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/00d96/uber-research-trip-mexico-oxxo.png 148w,
-/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/0b23c/uber-research-trip-mexico-oxxo.png 295w,
-/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png 590w,
-/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/2a3d6/uber-research-trip-mexico-oxxo.png 885w,
-/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/ae92f/uber-research-trip-mexico-oxxo.png 1180w,
-/lifegorithms.io/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png 1654w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png&quot;
+        srcset=&quot;/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/00d96/uber-research-trip-mexico-oxxo.png 148w,
+/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/0b23c/uber-research-trip-mexico-oxxo.png 295w,
+/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/799d3/uber-research-trip-mexico-oxxo.png 590w,
+/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/2a3d6/uber-research-trip-mexico-oxxo.png 885w,
+/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/ae92f/uber-research-trip-mexico-oxxo.png 1180w,
+/lifegorithms.com/static/01fe1abc844868508d2bf865be402a51/11df0/uber-research-trip-mexico-oxxo.png 1654w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -725,7 +725,7 @@ Here is a picture of the view from the office.  &lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -744,13 +744,13 @@ Here is a picture of the view from the office.  &lt;/p&gt;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Office View&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png&quot;
-        srcset=&quot;/lifegorithms.io/static/178134668111502665109e83fa4d106d/00d96/uber-research-trip-mexico-office-view.png 148w,
-/lifegorithms.io/static/178134668111502665109e83fa4d106d/0b23c/uber-research-trip-mexico-office-view.png 295w,
-/lifegorithms.io/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png 590w,
-/lifegorithms.io/static/178134668111502665109e83fa4d106d/2a3d6/uber-research-trip-mexico-office-view.png 885w,
-/lifegorithms.io/static/178134668111502665109e83fa4d106d/ae92f/uber-research-trip-mexico-office-view.png 1180w,
-/lifegorithms.io/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png 2234w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png&quot;
+        srcset=&quot;/lifegorithms.com/static/178134668111502665109e83fa4d106d/00d96/uber-research-trip-mexico-office-view.png 148w,
+/lifegorithms.com/static/178134668111502665109e83fa4d106d/0b23c/uber-research-trip-mexico-office-view.png 295w,
+/lifegorithms.com/static/178134668111502665109e83fa4d106d/799d3/uber-research-trip-mexico-office-view.png 590w,
+/lifegorithms.com/static/178134668111502665109e83fa4d106d/2a3d6/uber-research-trip-mexico-office-view.png 885w,
+/lifegorithms.com/static/178134668111502665109e83fa4d106d/ae92f/uber-research-trip-mexico-office-view.png 1180w,
+/lifegorithms.com/static/178134668111502665109e83fa4d106d/536e4/uber-research-trip-mexico-office-view.png 2234w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -765,7 +765,7 @@ We also all went dancing with Uber employees from the Mexico city office, just t
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;https://lifegorithms.io/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png&quot;
+    href=&quot;https://lifegorithms.com/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -784,13 +784,13 @@ We also all went dancing with Uber employees from the Mexico city office, just t
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Salsa&quot;
         title=&quot;&quot;
-        src=&quot;https://lifegorithms.io/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png&quot;
-        srcset=&quot;/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/00d96/uber-research-trip-mexico-salsa.png 148w,
-/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/0b23c/uber-research-trip-mexico-salsa.png 295w,
-/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png 590w,
-/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/2a3d6/uber-research-trip-mexico-salsa.png 885w,
-/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/ae92f/uber-research-trip-mexico-salsa.png 1180w,
-/lifegorithms.io/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png 2614w&quot;
+        src=&quot;https://lifegorithms.com/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png&quot;
+        srcset=&quot;/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/00d96/uber-research-trip-mexico-salsa.png 148w,
+/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/0b23c/uber-research-trip-mexico-salsa.png 295w,
+/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/799d3/uber-research-trip-mexico-salsa.png 590w,
+/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/2a3d6/uber-research-trip-mexico-salsa.png 885w,
+/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/ae92f/uber-research-trip-mexico-salsa.png 1180w,
+/lifegorithms.com/static/ddc34a86b68607b2e7637fb051571c89/aef6d/uber-research-trip-mexico-salsa.png 2614w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
@@ -802,5 +802,5 @@ We also all went dancing with Uber employees from the Mexico city office, just t
 &lt;p&gt;This research trip was full of learnings.&lt;br&gt;
 I advise everyone to go if you have the opportunity.&lt;br&gt;
 It was also a good 1-week team building event; I “knew” everyone from this trip already, but after this week I feel like I know them 200% more than before. It will make it easier to work together in the future. 👍&lt;/p&gt;
-                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.io. You can read it online by &lt;a href=&quot;https://lifegorithms.io/ux-research-mexico-uber/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
+                &lt;div style=&quot;margin-top=55px; font-style: italic;&quot;&gt;(This is an article posted to my blog at lifegorithms.com. You can read it online by &lt;a href=&quot;https://lifegorithms.com/ux-research-mexico-uber/&quot;&gt;clicking here&lt;/a&gt;.)&lt;/div&gt;
               </content:encoded></item></channel></rss>

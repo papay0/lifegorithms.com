@@ -64,7 +64,7 @@
     "deploy": "npm run build && npm run pre-deploy && gh-pages -d public -b master && npm run push_blog_master",
     "dry": "yarn build && cp now.json public/ && cd public && now",
     "js-to-jsx": "node src/utils/js-to-jsx",
-    "push_blog_master": "git add -A && git commit -m 'Updates' && git push blog_master"
+    "push_blog_master": "git add -A && (git commit -m 'Updates' || echo 'No changes to commit') && git push blog_master"
   },
   "husky": {
     "hooks": {

@@ -66,7 +66,10 @@ I rented a bike for 4th of July and went from Mission Bay to Sausalito, and back
 ## August
 
 Flew to France, reunited with the family.
+
 Lilou, one of my two cats, died a few days after I landed. Very sad moment. 😭
+
+Picture of Lilou and me:
 
 ![Lilou](./lilou.png)
 
@@ -106,18 +109,20 @@ Me being sad every time I was leaving Bandol: (family town)
 
 I wanted to go back to the US, but there was a travel ban. So I needed to spend 14 days in Mexico because European couldn’t go directly to the US.
 
-I first flew to Frankfurt, Germany for a 20 hours layover.
+I first flew to Frankfurt, Germany, for a 20-hour layover.
 
 ![Frankfurt](./frankfurt.png)
 
 Then flew to Cancun, Mexico.
-I was in a nice hotel. The issue was (1) always eating the same food for 14 days is not ideal
+I was in a nice hotel.
+
+The issue was (1) always eating the same food for 14 days is not ideal.
 
 ![Cancun hotel](./cancun-hotel.png)
 
 ![Cancun beach](./cancun-beach.png)
 
-But more importantly (2) a hurricane, named Delta, hit me and the hotel I was staying.  
+But more importantly (2) a hurricane, named Delta ([more info](https://eu.theadvertiser.com/picture-gallery/weather/hurricanes/2020/10/07/photos-hurricane-delta-damage-makes-landfall-cancun/5908225002/)), hit me and the hotel I was staying in.  
 I was evacuated to a shelter for two days, it was not a nice experience.  
 I was sleeping on the floor in a room full of people, it was looking like dead people.
 
@@ -133,7 +138,7 @@ The morning after the hurricane:
 
 ![Hurricane](./hurricane.png)
 
-After a few more days spent in another place, I finally came back to the main hotel for a few days, then flew to San Francisco where I stayed for 3 weeks.
+After a few more days spent in another place, I finally came back to the original hotel for a few days, then flew to San Francisco where I stayed for 3 weeks.
 
 First dinner, best dinner, In-N-Out!
 
@@ -153,8 +158,8 @@ I started surfing, almost everyday, best thing that happened in 2020 for sure!
 ![Hawaii Dog](./hawaii-dog.png)
 
 Almost everyday, I was going to the beach to watch the sunset.
-My level of happiness around the beach and surfing was very high!!
-I hiked, rented a scooter, did my first skydiving jump, so beautiful! ([video](https://www.youtube.com/watch?v=YSLpYZO9cDU))
+My level of happiness around the beach and surfing was very high!!  
+I hiked, rented a scooter, did my first skydiving jump: so beautiful! ([video](https://www.youtube.com/watch?v=YSLpYZO9cDU))
 
 ![Hawaii Skydiving](./hawaii-skydiving.png)
 
@@ -174,7 +179,7 @@ I spent Christmas ([video](https://www.youtube.com/watch?v=TmcsTjK6f0g)) and NYE
 ![Arthur Cha Christmas](./arthur-cha-christmas.png)
 
 During all this time traveling, from end of September to mid-December, I was staying in hotels.
-Hotel life has some advantages, it’s clean, but food was an issue.  
+Hotel life has some advantages, it’s clean, but food was an issue. (not being able to cook)  
 I do love ordering from UberEats and eating burgers all the time, but twice a day, burger, pizza and burrito, it’s too much.
 
 Finally, I met with a friend to do a song video summarizing our past 5 years. ([video](https://www.youtube.com/watch?v=JK3GOF3CS9Y))
@@ -189,7 +194,8 @@ During all this time traveling, I was working remotely. It was not an issue. I a
 During 2020, I also did a few Tech projects, apps. That made me happy. (Pushups Master, Coucou, algo trading)
 
 During 2020, Kathy (a colleague) and myself created the Uber Mentoring Program to help to bridge the gender gap in STEM by
-creating opportunities for young women & non-binary individuals to explore their passions. Basically, it means that we match young women with Uber engineers for a mentoring 1-1 session.
+creating opportunities for young women & non-binary individuals to explore their passions.  
+Basically, it means that we match young women with Uber engineers for a few mentoring 1-1 sessions.
 
 # Reflection
 
@@ -197,13 +203,13 @@ creating opportunities for young women & non-binary individuals to explore their
 
 I will not talk about the impact of Covid on the world in this article because this is not the point.
 
-Without talking about Covid, the first half sucked. Mainly because of my roommate situation.  
+The first half of 2020 sucked. Mainly because of my roommate situation.  
 The second half sucked less, mainly because I saw more people, I did different things, visited different places.
 
 The impact of Covid on my life was not terrible because I was lucky enough to be able to take advantage of the situation.  
-Without Covid I wouldn't had been to Hawaii or Cancun.
-Because of Covid, meeting friends was hard and didn't happen often.
-Because of Covid, my VISAs got impacted, my greencard was delayed by a year and my H1B is still not processed because te embassies are closed.
+Without Covid I wouldn't have been to Hawaii or Cancun.  
+Because of Covid, meeting friends was hard and didn't happen often.  
+Because of Covid, my VISAs got impacted, my greencard was delayed by a year and my H1B is still not processed because the embassies are closed.
 
 ## What makes me happy?
 
@@ -218,6 +224,7 @@ Not in order:
 - learning
 - good time with nice people
 - time with pets, mainly cats
+- close my rings ⌚️ (achievements)
 
 ## What do I want to focus on in 2021?
 
@@ -228,6 +235,7 @@ Not in order:
 - create more memories (eg YouTube videos)
 - finding a way to teach Personal Finance to more people
 - continuing to surf
+- closing my rings ⌚️ (achievements)
 - career: becoming Senior Software Engineer with Uber
 
-I am guessing that I will write another articles to set public goals for 2021.
+I am guessing that I will write another article to set public goals for 2021.

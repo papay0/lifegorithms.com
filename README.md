@@ -5,3 +5,13 @@ My personal blog. Forked from [Gatsby blog starter](https://github.com/gatsbyjs/
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
 Thanks Dan!
+
+--
+
+git remote add origin git@github.com:papay0/papay0.github.io.git
+git remote add blog_master git@github.com:papay0/lifegorithms.com.git
+npm install -g gatsby-cli
+npm install -g gh-pages --save-dev
+
+==> npm run deploy
+^ will deploy to github pages and then also push to lifegorithms.com

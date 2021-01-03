@@ -29,26 +29,28 @@ class Bio extends React.Component {
             Software Engineer @Uber (Eats)
           </p>
         </div>
-        <div>
-          <h3
-            style={{
-              fontFamily: 'Montserrat, sans-serif',
-              fontSize: rhythm(1),
-              marginBottom: rhythm(1 / 4),
-              marginTop: -50,
-            }}
-          >
-            About me
-          </h3>
-          Hey hey, I'm Arthur! 👋 <br />
-          I'm currently working at Uber (Eats) in San Francisco as an iOS
-          Engineer. <br />
-          I enjoy learning new stuff then explaining it in a simpler way, so you
-          might find some of this content in this blog. <br />
-          You can expect articles about Personal Finance, efficiency, and random
-          thoughts. <br />
-          Happy reading! 🤓
-        </div>
+        {this.props.showAboutMe && (
+          <div>
+            <h3
+              style={{
+                fontFamily: 'Montserrat, sans-serif',
+                fontSize: rhythm(1),
+                marginBottom: rhythm(1 / 4),
+                marginTop: -50,
+              }}
+            >
+              About me
+            </h3>
+            Hey hey, I'm Arthur! 👋 <br />
+            I'm currently working at Uber (Eats) in San Francisco as an iOS
+            Engineer. <br />
+            I enjoy learning new stuff then explaining it in a simpler way, so
+            you might find some of this content in this blog. <br />
+            You can expect articles about Personal Finance, efficiency, and
+            random thoughts. <br />
+            Happy reading! 🤓
+          </div>
+        )}
       </div>
     );
   }

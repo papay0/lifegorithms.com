@@ -43,7 +43,7 @@ class BlogIndexTemplate extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO />
         <aside>
-          <Bio />
+          <Bio showAboutMe={true} />
           <Header updateSelectedCategories={this.updateSelectedCategories} />
         </aside>
         <main>

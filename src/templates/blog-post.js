@@ -215,7 +215,7 @@ class BlogPostTemplate extends React.Component {
               Lifegorithms
             </Link>
           </h3>
-          <Bio />
+          <Bio showAboutMe={false} />
           <nav>
             <ul
               style={{

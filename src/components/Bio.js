@@ -40,7 +40,7 @@ class Bio extends React.Component {
           >
             About me
           </h3>
-          This is more about me, very me
+          This is more about me, 2
         </div>
       </div>
     );

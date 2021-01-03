@@ -35,12 +35,12 @@ class Bio extends React.Component {
               fontFamily: 'Montserrat, sans-serif',
               fontSize: rhythm(1),
               marginBottom: rhythm(1 / 4),
-              marginTop: -50
+              marginTop: -50,
             }}
           >
             About me
           </h3>
-          This is more about me
+          This is more about me, very me
         </div>
       </div>
     );

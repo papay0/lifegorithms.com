@@ -3,12 +3,12 @@ title: 2020 - The Year in Review
 date: '2021-01-01'
 spoiler: First half of 2020 sucked, second half sucked less
 category: 'article'
-published: false
+published: true
 ---
 
-This article contains two parts, the first one `describing the key moments of 2020` (it also serves as memories), months after months, and the second one being a `reflection of the year`.
+This article contains two parts, the first one [describing the key moments of 2020](http://localhost:8000/review-2020/#key-moments) (it also serves as memories), months after months, and the second one being a [reflection of the year](http://localhost:8000/review-2020/#reflection).
 
-2020 was my first full year living San Francisco, as I arrived in September 2019.
+2020 was my first full year 'living' San Francisco, as I moved there in September 2019.
 
 # Key moments
 
@@ -186,4 +186,48 @@ I will focus on risk management and I will cut losses earlier.
 
 During all this time traveling, I was working remotely. It was not an issue. I am used to work late anyway so the time different was not an issue.
 
+During 2020, I also did a few Tech projects, apps. That made me happy. (Pushups Master, Coucou, algo trading)
+
+During 2020, Kathy (a colleague) and myself created the Uber Mentoring Program to help to bridge the gender gap in STEM by
+creating opportunities for young women & non-binary individuals to explore their passions. Basically, it means that we match young women with Uber engineers for a mentoring 1-1 session.
+
 # Reflection
+
+## How was it?
+
+I will not talk about the impact of Covid on the world in this article because this is not the point.
+
+Without talking about Covid, the first half sucked. Mainly because of my roommate situation.  
+The second half sucked less, mainly because I saw more people, I did different things, visited different places.
+
+The impact of Covid on my life was not terrible because I was lucky enough to be able to take advantage of the situation.  
+Without Covid I wouldn't had been to Hawaii or Cancun.
+Because of Covid, meeting friends was hard and didn't happen often.
+Because of Covid, my VISAs got impacted, my greencard was delayed by a year and my H1B is still not processed because te embassies are closed.
+
+## What makes me happy?
+
+Not in order:
+
+- coding, creating something useful
+- marking tasks on a list as done ✅ (achievements)
+- feeling part of a community
+- surfing (anything related to water, but mainly surfing)
+- writing articles
+- teaching / mentoring
+- learning
+- good time with nice people
+- time with pets, mainly cats
+
+## What do I want to focus on in 2021?
+
+- learning, with a focus on trading
+- focusing on my group of friends
+- writing more articles
+- continuing to create tech projects
+- create more memories (eg YouTube videos)
+- finding a way to teach Personal Finance to more people
+- continuing to surf
+- career: becoming Senior Software Engineer with Uber
+
+I am guessing that I will write another articles to set public goals for 2021.

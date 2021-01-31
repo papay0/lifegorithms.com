@@ -1,5 +1,5 @@
 ---
-title: Reverse engineering Robinhood to create SoTrade
+title: Reverse engineering Robinhood to create SoTrade 📈
 date: '2021-01-31'
 spoiler: SoTrade, your social trading buddy!
 category: 'project'

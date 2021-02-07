@@ -24,7 +24,8 @@ I’d like my focus to continue to be iOS because it’s my passion, but I can h
 
 I listen to your Townhall every Sunday, which gives me a good feeling about your team and makes me want to work with you!
 
-I also see so many things to work on, all super exciting: providing `analytics to moderators` (I’m a real data nerd), `accessibility` (solution for those hard of hearing), and the overall `scale of the product`!
+I also see so many things to work on, all super exciting: providing `analytics to moderators` (I’m a real data nerd), `accessibility` (solution for those hard of hearing), and the overall `scale of the product`!  
+I worked in the Uber Payments team for 2 years, I'd love to help working on the Clubhouse tipping experience. ☺️
 
 Would love to take some of your time to chat more!  
 You can reach me at `papailhau@gmail.com`, or directly on Clubhouse `@papay0` (Arthur Papailhau)

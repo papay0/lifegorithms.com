@@ -6,6 +6,12 @@ category: 'job'
 published: false
 ---
 
+---
+
+📩 papailhau@gmail.com  📩
+
+---
+
 Hi Clubhouse team 👋,
 
 I’m Arthur, an `iOS Tech Lead at Uber` based in San Francisco. I am really excited about Clubhouse, its future and 👉 would love to join your team as an `iOS Software Engineer` 👈!
@@ -20,13 +26,12 @@ I listen to your Townhall every Sunday, which gives me a good feeling about your
 
 I also see so many things to work on, all super exciting: providing `analytics to moderators` (I’m a real data nerd), `accessibility` (solution for those hard of hearing), and the overall `scale of the product`!
 
-Would love to take 15 minutes of your time to chat more!  
+Would love to take some of your time to chat more!  
 You can reach me at `papailhau@gmail.com`, or directly on Clubhouse `@papay0` (Arthur Papailhau)
 
 Looking forward to hearing from you 🥳
 
 \- Arthur  
 https://www.linkedin.com/in/arthur-papailhau/  
-https://github.com/papay0/  
-papailhau@gmail.com
+https://github.com/papay0/
 
